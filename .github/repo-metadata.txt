@@ -1,0 +1,3 @@
+repository=tcknvkn-swift
+visibility=public
+description=Swift kütüphanesi ile TCKN (TC Kimlik No) ve VKN (Vergi Kimlik No) doğrulama algoritmaları.
